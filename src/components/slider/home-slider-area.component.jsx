@@ -59,7 +59,8 @@ const HomeSliderArea = () => {
           {/* ltn__slide-item */}
           <div
             className="ltn__slide-item ltn__slide-item-2  ltn__slide-item-3-normal--- ltn__slide-item-3 bg-image bg-overlay-theme-black-60---"
-            data-bs-bg="img/slider/13.jpg"
+            data-bg="/img/slider/13.jpg"
+            id="slider-1"
           >
             <div className="ltn__slide-item-inner  text-left">
               <div className="container">
@@ -101,7 +102,8 @@ const HomeSliderArea = () => {
           {/* ltn__slide-item */}
           <div
             className="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal--- ltn__slide-item-3 bg-image bg-overlay-theme-black-60---"
-            data-bs-bg="img/slider/11.jpg"
+            data-bg="/img/slider/11.jpg"
+            id="slider-2"
           >
             <div className="ltn__slide-item-inner text-center">
               <div className="container">
@@ -152,7 +154,8 @@ const HomeSliderArea = () => {
           {/* ltn__slide-item */}
           <div
             className="ltn__slide-item ltn__slide-item-2  ltn__slide-item-3-normal--- ltn__slide-item-3 bg-image bg-overlay-theme-black-60---"
-            data-bs-bg="img/slider/12.jpg"
+            data-bg="/img/slider/12.jpg"
+            id="slider-3"
           >
             <div className="ltn__slide-item-inner  text-right text-end">
               <div className="container">
