@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     const handleScroll = (event) => {
       var scroll = window.scrollY;
-      console.log(scroll);
+      // console.log(scroll);
       if (scroll < 445) {
         setScrollUp("none");
       } else {

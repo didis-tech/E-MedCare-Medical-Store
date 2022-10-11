@@ -3,8 +3,12 @@ import Slider from "react-slick";
 const SamplePrevArrow = (props) => {
   const { style, onClick } = props;
   return (
-    <a class="slick-prev" style={{ ...style }} onClick={onClick}>
-      <i class="fas fa-arrow-left" alt="Arrow Icon"></i>
+    <a
+      className="slick-prev slick-arrow"
+      style={{ ...style }}
+      onClick={onClick}
+    >
+      <i className="fas fa-arrow-left" alt="Arrow Icon"></i>
     </a>
   );
 };
@@ -12,8 +16,12 @@ const SamplePrevArrow = (props) => {
 const SampleNextArrow = (props) => {
   const { style, onClick } = props;
   return (
-    <a class="slick-next" style={{ ...style }} onClick={onClick}>
-      <i class="fas fa-arrow-right" alt="Arrow Icon"></i>
+    <a
+      className="slick-next slick-arrow"
+      style={{ ...style }}
+      onClick={onClick}
+    >
+      <i className="fas fa-arrow-right" alt="Arrow Icon"></i>
     </a>
   );
 };

@@ -16,7 +16,7 @@ const HomeProducts = () => {
             <div className="col-lg-3 col-md-4 col-sm-6 col-6">
               <div className="ltn__product-item ltn__product-item-3 text-center">
                 <div className="product-img">
-                  <a href="product-details.html">
+                  <a href="#!">
                     <img src="img/product/1.png" alt="#" />
                   </a>
                   <div className="product-badge">
@@ -90,7 +90,7 @@ const HomeProducts = () => {
                     </ul>
                   </div>
                   <h2 className="product-title">
-                    <a href="product-details.html">Antiseptic Spray</a>
+                    <a href="#!">Antiseptic Spray</a>
                   </h2>
                   <div className="product-price">
                     <span>$32.00</span>
@@ -103,7 +103,7 @@ const HomeProducts = () => {
             <div className="col-lg-3 col-md-4 col-sm-6 col-6">
               <div className="ltn__product-item ltn__product-item-3 text-center">
                 <div className="product-img">
-                  <a href="product-details.html">
+                  <a href="#!">
                     <img src="img/product/2.png" alt="#" />
                   </a>
                   <div className="product-hover-action">
@@ -172,7 +172,7 @@ const HomeProducts = () => {
                     </ul>
                   </div>
                   <h2 className="product-title">
-                    <a href="product-details.html">Digital Stethoscope</a>
+                    <a href="#!">Digital Stethoscope</a>
                   </h2>
                   <div className="product-price">
                     <span>$25.00</span>
@@ -185,7 +185,7 @@ const HomeProducts = () => {
             <div className="col-lg-3 col-md-4 col-sm-6 col-6">
               <div className="ltn__product-item ltn__product-item-3 text-center">
                 <div className="product-img">
-                  <a href="product-details.html">
+                  <a href="#!">
                     <img src="img/product/3.png" alt="#" />
                   </a>
                   <div className="product-badge">
@@ -259,7 +259,7 @@ const HomeProducts = () => {
                     </ul>
                   </div>
                   <h2 className="product-title">
-                    <a href="product-details.html">Cosmetic Containers</a>
+                    <a href="#!">Cosmetic Containers</a>
                   </h2>
                   <div className="product-price">
                     <span>$75.00</span>
@@ -272,7 +272,7 @@ const HomeProducts = () => {
             <div className="col-lg-3 col-md-4 col-sm-6 col-6">
               <div className="ltn__product-item ltn__product-item-3 text-center">
                 <div className="product-img">
-                  <a href="product-details.html">
+                  <a href="#!">
                     <img src="img/product/4.png" alt="#" />
                   </a>
                   <div className="product-badge">
@@ -346,7 +346,7 @@ const HomeProducts = () => {
                     </ul>
                   </div>
                   <h2 className="product-title">
-                    <a href="product-details.html">Cosmetic Containers</a>
+                    <a href="#!">Cosmetic Containers</a>
                   </h2>
                   <div className="product-price">
                     <span>$78.00</span>

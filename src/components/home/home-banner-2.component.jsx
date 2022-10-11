@@ -8,7 +8,7 @@ const HomeBanner2 = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="ltn__banner-item">
                 <div className="ltn__banner-img">
-                  <a href="shop.html">
+                  <a href="#!">
                     <img src="img/banner/23.jpg" alt="Banner Image" />
                   </a>
                 </div>
@@ -17,7 +17,7 @@ const HomeBanner2 = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="ltn__banner-item">
                 <div className="ltn__banner-img">
-                  <a href="shop.html">
+                  <a href="#!">
                     <img src="img/banner/22.jpg" alt="Banner Image" />
                   </a>
                 </div>
@@ -26,7 +26,7 @@ const HomeBanner2 = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="ltn__banner-item">
                 <div className="ltn__banner-img">
-                  <a href="shop.html">
+                  <a href="#!">
                     <img src="img/banner/21.jpg" alt="Banner Image" />
                   </a>
                 </div>
