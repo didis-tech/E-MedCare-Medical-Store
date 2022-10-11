@@ -16,7 +16,7 @@
     {
       "src": "img/logo/logo-dark-384x384.png",
       "type": "image/png",
-      "sizes": "384x384",
+      "sizes": "512x512",
       "purpose": "any maskable"
     }
   ],
